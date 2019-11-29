@@ -1,0 +1,3 @@
+[build]
+rustflags = ["-C", "link-args=-I ~/Downloads/lua-5.3.5/src/ -llua -lscript_api -L/home/shammyz/Documents/repos/blink/script_api/target/debug"]
+

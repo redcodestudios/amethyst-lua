@@ -1,0 +1,4 @@
+(
+  title: "blink",
+  dimensions: Some((500, 500)),
+)
